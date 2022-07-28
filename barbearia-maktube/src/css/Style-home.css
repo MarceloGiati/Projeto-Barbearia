@@ -1,0 +1,77 @@
+body {
+    background: #FF4500;
+}
+
+.Lobo2 {
+    width: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} 
+
+.principal {
+    background: #FF4500;
+    padding: 30px;
+}
+
+.titulo-principal {
+    text-align: center;
+    padding-left: 20px;
+}
+ 
+.titulo-centralizado {
+    text-align: center;
+}
+
+p {
+   text-align: center;
+}
+
+#logo {
+    font-size: 20px;
+}
+
+#missao {
+    font-size: 20px;
+}
+
+em strong {
+    color: black;
+}
+
+.itens {
+   font-style: italic; 
+}
+
+.beneficios {
+    /* text-align: center; */
+    vertical-align: top;
+    background: #FF4500;
+}
+img {
+    width: 500px;
+    display: inline-block;
+    margin: 10px 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 21%;
+    margin-left: 20px;
+}
+
+.imagembeneficios {
+        width: 150%;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+}
+
